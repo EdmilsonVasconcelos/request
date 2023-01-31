@@ -9,6 +9,6 @@
 # Para configurar o projeto:
 
 - Você precisa do Xampp para carregar as páginas, pois as páginas são salvas no formato .php.
-- Adicionar todos os arquivos dentro da pasta htdocs do Xamp
+- Adicionar todos os arquivos do projeto dentro da pasta htdocs do Xamp
 - Inicie o apache no Xampp
 - Acessar a url: http://localhost/request
