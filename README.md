@@ -1,29 +1,14 @@
-# README
+# Front-end do projeto de Pedidos
 
-Projeto de pedidos
+### Tecnologias
 
-### What is this repository for?
+- KnockoutJS
+- jQuery
+- Bootstrap
 
-- Quick summary
-- Version
-- [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+# Para configurar o projeto:
 
-### How do I get set up?
-
-- Summary of set up
-- Configuration
-- Dependencies
-- Database configuration
-- How to run tests
-- Deployment instructions
-
-### Contribution guidelines
-
-- Writing tests
-- Code review
-- Other guidelines
-
-### Who do I talk to?
-
-- Repo owner or admin
-- Other community or team contact
+- Você precisa do Xampp para carregar as páginas, pois as páginas são salvas no formato .php.
+- Adicionar todos os arquivos dentro da pasta htdocs
+- Após isso, iniciar o apache no xampp
+- Acessar a url: http://localhost/request
